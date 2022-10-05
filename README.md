@@ -7,6 +7,6 @@ Technologies used : JQuery/JS, Bootstrap4, Sass, HTML & CSS
 
 ---------
 
-Site en Bootstrap4 et JQuery. Réalisé en collaboration avec blCav et Sdemers12..
+Site en Bootstrap4 et JQuery. Réalisé en collaboration avec blCav et Sdemers12.
 
 Technologies utilisées : JQuery/JS, Bootstrap4, Sass, HTML & CSS
